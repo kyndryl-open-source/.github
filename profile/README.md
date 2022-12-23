@@ -14,7 +14,7 @@
 
 ## Software Public License
 
-* We recommend the [MIT](https://opensource.org/licenses/MIT) open source license for all projects inside this organization.
+### We recommend the [MIT](https://opensource.org/licenses/MIT) open source license for all projects inside this organization
 
 ## Kyndryl OSS Team
 
