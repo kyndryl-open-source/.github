@@ -6,7 +6,7 @@
 
 ## Contact
 
-### Please reach out to the OSS Community at Kyndryl [here](mailto:open-source@kyndryl.com).
+### Please reach out to the OSS Community at Kyndryl [here](mailto:open-source@kyndryl.com)
 
 ## Disclaimer
 
@@ -20,10 +20,11 @@
 
 | **Name** | **Role** | **GitHub ID** |
 |:---------------|:---------------|:---------------|
-| Kiran Kuchibhotla | OSS PMO | `KKiranmai ` |
-| Nithya Pathirapandian | OSS PMO | `nithyapathira` |
-| James Chamberlain | Lead maintainer | `jchamber904` |
-| Rod Anami | Lead maintainer | `rod4n4m1` |
+| Kiran Kuchibhotla | OSPO Leader | `KKiranmai ` |
+| Nithya Pathirapandian | OSPO PM | `nithyapathira` |
+| James Chamberlain | OSPO Lead maintainer | `jchamber904` |
+| Rod Anami | OSPO Lead maintainer | `rod4n4m1` |
+| Haytham Elkhoja | Maintainer | `haythamelkhoja` |
 | | | |
 
 ## End of Document
