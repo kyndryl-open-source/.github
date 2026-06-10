@@ -23,8 +23,9 @@
 | Kiran Kuchibhotla | OSPO Leader | `KKiranmai ` |
 | Nithya Pathirapandian | OSPO PM | `nithyapathira` |
 | James Chamberlain | OSPO Lead maintainer | `jchamber904` |
-| Rod Anami | OSPO Lead maintainer | `rod4n4m1` |
+| Rod Anami | OSPO Lead maintainer | `rod-anami-kyndryl` |
 | Haytham Elkhoja | Maintainer | `haythamelkhoja` |
+| Partha Madhira | Maintainer | `partha-kyndryl` 
 | | | |
 
 ## End of Document
