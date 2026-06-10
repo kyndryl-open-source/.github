@@ -24,8 +24,8 @@
 | Nithya Pathirapandian | OSPO PM | `nithyapathira` |
 | James Chamberlain | OSPO Lead maintainer | `jchamber904` |
 | Rod Anami | OSPO Lead maintainer | `rod-anami-kyndryl` |
-| Haytham Elkhoja | Maintainer | `haythamelkhoja` |
-| Partha Madhira | Maintainer | `partha-kyndryl` 
+| Haytham Elkhoja | Project Maintainer | `haythamelkhoja` |
+| Partha Madhira | Project Maintainer | `partha-kyndryl` 
 | | | |
 
 ## End of Document
